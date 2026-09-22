@@ -55,3 +55,34 @@ you can download from Google Drive: https://drive.google.com/drive/u/1/folders/1
 https://openwall.info/wiki/john/johnny  
 Or 
 you can download from Google Drive: https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
+<img width="1440" height="900" alt="Screenshot 2026-09-22 195315" src="https://github.com/user-attachments/assets/5b55517f-f8ec-4d81-a697-c9d8bce7e822" />
+
+# <sub> Run the setup file & install Johnny as shown in below:
+<img width="118" height="59" alt="Screenshot 2026-09-22 195950" src="https://github.com/user-attachments/assets/40b2bf00-559c-4577-9eff-ef6bdf238609" />
+
+# <sub> After installation, open Johnny:
+<img width="218" height="125" alt="Screenshot 2026-09-22 200049" src="https://github.com/user-attachments/assets/9162fc4a-101e-4bb8-89ef-01db0aae8266" />
+
+# <sub> Click on settings & browse:
+<img width="301" height="236" alt="Screenshot 2026-09-22 200148" src="https://github.com/user-attachments/assets/6ffa9193-6f00-4718-b37b-3e1659ca3597" />
+
+# <sub> Select John.exe:
+<img width="1440" height="900" alt="Screenshot 2026-09-22 200704" src="https://github.com/user-attachments/assets/3c378f35-4ad7-4804-83e4-1a78a0380416" />
+*john.exe file is located in the run folder as shown in this screenshot.
+
+# <img width="690" height="355" alt="Screenshot 2026-09-22 200853" src="https://github.com/user-attachments/assets/e8ecaa60-21ee-48fe-8e0a-8311db7e0e29" />
+
+# <sub> Step 3: Follow below steps to crack the password.
+
+<img width="79" height="20" alt="Screenshot 2026-09-22 202002" src="https://github.com/user-attachments/assets/c703c49f-153c-4eba-b029-b70f9ad57710" />
+
+Download the encrypted PDF file to your PC:
+
+Open the hash website & upload your pdf file to find its hash:
+
+https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
+
+<img width="1440" height="900" alt="Screenshot 2026-09-22 202527" src="https://github.com/user-attachments/assets/e241674b-396a-4bb4-bfc2-786ae4ce159b" />
+
+
+
