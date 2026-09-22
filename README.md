@@ -41,11 +41,17 @@ Password hashing and hash extraction
 
   # 4. Lab Setup Procedure
   # <sub> Step 1: Download John the Ripper from official website on your windows PC.
-https://www.openwall.com/john/
+  
+https://www.openwall.com/john/  
 Or  
-https://distro.ibiblio.org/openwall/projects/john/1.9.0/
-Or
+https://distro.ibiblio.org/openwall/projects/john/1.9.0/  
+Or   
 you can download from Google Drive: https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
 
-  
-  
+<img width="1440" height="864" alt="Screenshot 2026-09-22 194322" src="https://github.com/user-attachments/assets/917cab10-f27f-4ae0-a12d-4c5d525b5790" />
+
+# <sub> Step 2: Download Johnny GUI from official website
+
+https://openwall.info/wiki/john/johnny  
+Or 
+you can download from Google Drive: https://drive.google.com/drive/u/1/folders/1aHtgOh7U9mQhkN8VHU7ctTyaDg5KbuJx
