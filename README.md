@@ -1,4 +1,4 @@
-# Networkwalks-B083-Week-3-cybersecurity-lab-setup
+# Networkwalks-B083-Week-3-cybersecurity
 PASSWORD CRACKING WITH JTR CYBERSECURITY &amp; ETHICAL HACKING PROJECT TASKS
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
@@ -83,6 +83,62 @@ Open the hash website & upload your pdf file to find its hash:
 https://www.onlinehashcrack.com/tools-pdf-hash-extractor.php
 
 <img width="1440" height="900" alt="Screenshot 2026-09-22 202527" src="https://github.com/user-attachments/assets/e241674b-396a-4bb4-bfc2-786ae4ce159b" />
+
+Browse the PDF file & click on Upload:
+
+<img width="1440" height="864" alt="Screenshot 2026-09-24 160534" src="https://github.com/user-attachments/assets/8efe690e-ec8a-4331-980a-e4e997c5b946" />
+
+Select & copy the hash value:
+
+<img width="1440" height="864" alt="Screenshot 2026-09-24 160554" src="https://github.com/user-attachments/assets/60c990ab-e946-4e94-8a61-d5246f1ba626" />
+
+*Note: If your hash contains extra characters like b' in the start then make sure to remove those when saving in txt file (hash value should be in the format shown in above screenshot i.e. starting with $pdf$....).
+
+Open notepad:
+
+<img width="919" height="533" alt="Screenshot 2026-09-24 161424" src="https://github.com/user-attachments/assets/9b3905c4-a864-4cd2-96a7-883c6492f91f" />
+
+Save as text file:
+
+<img width="919" height="533" alt="Screenshot 2026-09-24 161456" src="https://github.com/user-attachments/assets/8b8d2ac5-db05-4bc1-b4ad-4a09bc179ec4" />
+
+Click on ‘Open password file’:
+
+<img width="438" height="350" alt="Screenshot 2026-09-24 161734" src="https://github.com/user-attachments/assets/2dd0b65a-ea1d-4e3c-a523-3af51bf4b961" />
+
+Click on ‘Start new attack’:
+
+<img width="438" height="350" alt="Screenshot 2026-09-24 161927" src="https://github.com/user-attachments/assets/073dd9eb-1f07-4cc1-8cba-1fc3a45456ee" />
+
+Your PDF file password will be cracked (it might take some time depending on your computer speed & password complexity):
+
+Enter password1 (which you have just cracked):
+
+<img width="1440" height="864" alt="Screenshot 2026-09-24 160040" src="https://github.com/user-attachments/assets/6e29b045-8141-4846-9e1a-2f874fab7eea" />
+
+
+
+# 👤 Author
+**Rahul Rathore**
+
+Cybersecurity Starter
+
+LinkedIn: www.linkedin.com/in/rahul-rathore91
+
+# Project Imformation
+
+**Program Name:** Cybersecurity at Networkwalks | **Week: 03 | Project:** **Module 1** PASSWORD CRACKING WITH JTR CYBERSECURITY | 
+
+**Repository:** GitHub.com
+
+
+
+
+
+
+
+
+
 
 
 
